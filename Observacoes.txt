@@ -1,0 +1,4 @@
+# Rodar o projeto na porta 8001 para integrar com o funcionamento do SGE
+
+# usuario admin: rodrigo.costa
+# senha admin: senhafacil
